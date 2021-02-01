@@ -1,0 +1,21 @@
+{
+  "name": "email_task",
+  "version": "1.0.0",
+  "description": "Email task but schedular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restapi",
+    "json",
+    "nodemailer"
+  ],
+  "author": "Priyanka Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.17"
+  }
+}
